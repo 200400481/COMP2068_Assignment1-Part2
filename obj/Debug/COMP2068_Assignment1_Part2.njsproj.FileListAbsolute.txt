@@ -1,0 +1,2 @@
+C:\Users\jakob\source\repos\COMP2068_Assignment1_Part2\COMP2068_Assignment1_Part2\obj\Debug\COMP2068_Assignment1_Part2.njsprojAssemblyReference.cache
+C:\Users\jakob\source\repos\COMP2068_Assignment1_Part2\COMP2068_Assignment1_Part2\bin\Microsoft.NodejsTools.WebRole.dll
